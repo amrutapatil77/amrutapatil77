@@ -11,9 +11,7 @@
 - 🔭 I’m currently working on ...**Websites**
 - 🌱 I’m currently learning ...**Full Stack Developer** 
 - 👯 I’m looking to collaborate on ...**OpenSource Project**
-- 💬 Ask me about ...
 - 📫 How to reach me: ...**amrutapatilap7@gmail.com**
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...**"One thing i cannot live without is my laptop."**
 -->
 
@@ -44,12 +42,7 @@
 
 
 
-  <a href="https://github.com/amrutapatil/github-readme-stats"><img alt="Amruta Patil's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrutapatil77&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhamRaoniar28&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
 
- 
 
 ## Connect with me:
 <p align="left">
